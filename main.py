@@ -3,7 +3,7 @@ while iteration==True:
 
     import random
 
-# this function is use to define only
+# this function is use to play snake,water,gun game 
     def swg_game(cam, you):
         if cam == you:
             return 'No'
